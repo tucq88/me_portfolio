@@ -1,0 +1,9 @@
+{
+  "name": "My Portfolio",
+  "version": "0.0.1",
+  "dependencies": {
+    "bootstrap": "*",
+    "jquery": "*"
+  },
+  "directory": "assets/lib"
+}
