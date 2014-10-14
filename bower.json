@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "dependencies": {
     "bootstrap": "*",
-    "fontawesome": "*",
-    "jquery": "*"
+    "flexslider": "*",
+    "jquery": "~1.9"
   }
 }
